@@ -11,9 +11,7 @@ Used Jupyter Notebook and a python library called Pandas to easily manipulate th
 Pre-processed the data. This step included:
 
 * cleaning the data
-
 * handling missing values
-
 * analyzing the data for further analysis
 
 ### Day 2-
