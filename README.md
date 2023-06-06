@@ -9,6 +9,7 @@ Used Jupyter Notebook and a python library called Pandas to easily manipulate th
 
 ### Day 1-
 Pre-processed the data. This step included
+
 -cleaning the data
 
 -handling missing values
