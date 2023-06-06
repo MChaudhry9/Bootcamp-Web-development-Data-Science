@@ -8,7 +8,7 @@
 Used Jupyter Notebook and a python library called Pandas to easily manipulate the data in the dataset. 
 
 ### Day 1-
-Pre-processed the data. This step included
+Pre-processed the data. This step included:
 
 -cleaning the data
 
