@@ -1,10 +1,10 @@
 ## Solving real-world problems in Jupyter Notebook by using NYC Open Data API
 
-## Open Data API
-A public API provided by the city of New York that offers access to various datasets.
-
 ## Resources Used
+-Open Data API : A public API provided by the city of New York that offers access to various datasets.
+
 -Jupyter Notebook
+
 -Pandas Python Library
 Used Jupyter Notebook and a python library called Pandas to easily manipulate the data in the dataset. 
 
