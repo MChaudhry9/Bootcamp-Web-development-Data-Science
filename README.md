@@ -6,6 +6,7 @@
 -Jupyter Notebook
 
 -Pandas Python Library
+
 Used Jupyter Notebook and a python library called Pandas to easily manipulate the data in the dataset. 
 
 ## Day 1
